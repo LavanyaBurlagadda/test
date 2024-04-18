@@ -22,6 +22,6 @@ const bannerCardsData = [
   },
 ]
 
-const App = () => <h1>Replace this element with your code</h1>
+const App = () => <h1>Okay this element with your code</h1>
 
 export default App
